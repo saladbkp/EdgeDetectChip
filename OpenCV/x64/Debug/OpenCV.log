@@ -1,0 +1,10 @@
+﻿  OpenCV.cpp
+C:\Users\khwon\Desktop\OpenCV\OpenCV\OpenCV.cpp(20,11): warning C4566: character represented by universal-character-name '\u8BFB' cannot be represented in the current code page (1252)
+C:\Users\khwon\Desktop\OpenCV\OpenCV\OpenCV.cpp(20,11): warning C4566: character represented by universal-character-name '\u53D6' cannot be represented in the current code page (1252)
+C:\Users\khwon\Desktop\OpenCV\OpenCV\OpenCV.cpp(20,11): warning C4566: character represented by universal-character-name '\u56FE' cannot be represented in the current code page (1252)
+C:\Users\khwon\Desktop\OpenCV\OpenCV\OpenCV.cpp(20,11): warning C4566: character represented by universal-character-name '\u50CF' cannot be represented in the current code page (1252)
+C:\Users\khwon\Desktop\OpenCV\OpenCV\OpenCV.cpp(20,11): warning C4566: character represented by universal-character-name '\u51FA' cannot be represented in the current code page (1252)
+C:\Users\khwon\Desktop\OpenCV\OpenCV\OpenCV.cpp(20,11): warning C4566: character represented by universal-character-name '\u9519' cannot be represented in the current code page (1252)
+C:\Users\khwon\Desktop\OpenCV\OpenCV\OpenCV.cpp(58,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\khwon\Desktop\OpenCV\OpenCV\OpenCV.cpp(109,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  OpenCV.vcxproj -> C:\Users\khwon\Desktop\OpenCV\x64\Debug\OpenCV.exe
